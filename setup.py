@@ -6,7 +6,7 @@ setup(
     name='mcq_generator',
     version="0.0.1",
     author="dhanush",
-    author_email="dhanushvinay4@gmial.comn",
+    author_email="dhanudfshay4ffsdf@gmial.comn",
     install_requires=["openai", "langchain", "streamlit", "python-dotenv", "PyPDF2"],
     packages=find_packages()
     # find_packages() -> responsible for finding the local packages in  my folders
